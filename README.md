@@ -5,7 +5,7 @@ A production-ready AI-powered chatbot that assesses organisational compliance re
 Developed by **Sandhurst Advisory** in collaboration with **Enerlytic Intelligence**.
 
 🔗 **Live Demo:** [ai-customer-support-chatbot-dun.vercel.app](https://ai-customer-support-chatbot-dun.vercel.app/)
-🔗 **Live:** [ai-customer-support-chatbot-dun.vercel.app](https://eeca.sandhurstadvisory.com.my/)
+🔗 **Live:** [eeca.sandhurstadvisory.com.my](https://eeca.sandhurstadvisory.com.my/)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![AI SDK](https://img.shields.io/badge/AI%20SDK-v6-blue)
